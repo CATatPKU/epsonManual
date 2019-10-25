@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="epson_projector_remote">
+    <title>Epson_Projector_Remote</title>
+    <shortdesc>使用遥控器的方式启动爱普生投影机</shortdesc>
+    <taskbody>
+        <context>关于使用遥控器来启动本产品的流程，以及遥控器上各个按钮的功能简介。<p/></context>
+        <steps>
+            <step>
+                <cmd>遥控器分为正面和侧面两个区域，都有按钮。</cmd>
+            </step>
+            <step>
+                <cmd>遥控器侧面的按钮是电源开关，对着投影机正面，按下电源开关即可启动投影机。</cmd>
+            </step>
+            <step>
+                <cmd>遥控器正面最上方是指示灯，下面四个按钮分别是超链接键、上翻页、下翻页和激光键。<image id="image_ey4_bxw_mjb"/><image
+                        href="../image_wendy/Epson_Projector_Remote.jpg" id="image_lpx_wqx_mjb"
+                    /></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

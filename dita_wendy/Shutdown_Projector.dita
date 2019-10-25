@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Shutdown_Projector">
+    <title>Shutdown_Projector</title>
+    <shortdesc>关闭投影机</shortdesc>
+    <conbody>
+        <p>在使用完投影机后，需要将其关闭。</p>
+        <p>正确地开关投影仪电源，对投影灯泡以及投影仪内部配件的使用寿命影响很大。如果乱关投影仪电源，那么可能会使投影灯泡和投影仪电路部分的电源一起关闭，使投影仪内部的散热风扇因电源断电而停止工作，导致投影灯泡以及投影仪在工作过程中产生的大量热量不能及时通过散热风扇排放出去，这种情况很有可能会使投影灯泡产生爆炸，损坏内部电路板从而使用投影仪不能正常工作。</p>
+    </conbody>
+</concept>

@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="epson_projector_power">
+    <title>Epson_Projector_Power</title>
+    <shortdesc>爱普生投影机电源线简介</shortdesc>
+    <conbody>
+        <p>投影机配备多种接口，可用于插入电源线。</p>
+        <p>通常采用4平米左右的电源线，重约100克，可选择0.8m,1.5m,3m,5m长度规格，国标3C，全铜芯线，环保PVC材料，防腐耐磨，额定电流6A，电压100-250V。</p>
+        <p>在投影机的背面插入电源线后，投影机即能自动启动。<image id="image_e5x_s5w_mjb"/><image
+                href="../image_wendy/Epson_Projector_Power.jpg" id="image_oj3_wqx_mjb"/></p>
+    </conbody>
+</concept>

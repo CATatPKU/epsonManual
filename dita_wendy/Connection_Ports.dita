@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="Connection_Ports">
+    <title>Connection_Ports</title>
+    <shortdesc>连接视频线的电脑端口类型简介</shortdesc>
+    <conbody>
+        <p>电脑显卡全称显示接口卡，是个人电脑最基本的组成成分之一，显卡接口类型主要包括VGA,HDMI,DP,USB,TYPE-C等，要根据不同的接口类型选择对应的视频线。</p>
+    </conbody>
+</concept>
