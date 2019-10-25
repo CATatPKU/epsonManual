@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
 <troubleshooting id="FAQ_Image_Partial">
-    <title>FAQ_Image_Partial</title>
+    <title>只显示部分画面</title>
     <troublebody>
         <condition>
             <title>Conditon: 画面不正常，具体表现为只显示部分画面。</title>

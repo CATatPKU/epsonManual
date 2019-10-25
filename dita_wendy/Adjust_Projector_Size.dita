@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="Adjust_Projector_Size">
-    <title>Adjust_Projector_Size</title>
+    <title>调整尺寸</title>
     <shortdesc>调整投影机显示出来的画面的尺寸</shortdesc>
     <taskbody>
         <context>投影机与电脑连接好后，对投影画面的尺寸大小进行调整。</context>

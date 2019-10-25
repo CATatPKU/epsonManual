@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="Connection_Ports_USB">
-        <title>Connection_Ports_USB</title>
+        <title>USB端口</title>
         <shortdesc>关于USB接口和其对应的视频线的选择</shortdesc>
         <refbody>
                 <example>USB是笔记本电脑使用频率最高的接口。USB是英文Universal Serial
