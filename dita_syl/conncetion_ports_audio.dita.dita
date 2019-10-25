@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="conncetion_ports_audio.dita">
+    <title>耳机接口</title>
+    <refbody>
+        <example>
+            <p>如果您的视频源有音频输出端口，您可以通过投影仪的扬声器系统播放声音；您也可以选择将音频电缆连接到视频源的音频输出端口，连接另一端到投影仪的音频端口。</p>
+            <p><image href="1.jpg" id="image_h2f_rsy_mjb"/></p>
+        </example>
+    </refbody>
+</reference>

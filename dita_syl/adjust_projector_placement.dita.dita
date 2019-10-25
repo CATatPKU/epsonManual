@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="adjust_projector_placement.dita">
+    <title>调整画面位置</title>
+    <taskbody>
+        <context>如果您选择将投影机放置到水平面上投影，而图像过高或过低，您可以使用投影机的可调脚调整图像高度。<p/></context>
+        <steps>
+            <step>
+                <cmd>打开投影机并显示图像。</cmd>
+            </step>
+            <step>
+                <cmd>要调整前脚，上拉脚释放杆抬高投影仪前部</cmd>
+            </step>
+            <step>
+                <cmd><image href="2.jpg" id="image_wfb_c5y_mjb"/></cmd>
+            </step>
+            <step>
+                <cmd>松开并固定</cmd>
+            </step>
+            <step>
+                <cmd>如果图像倾斜，旋转后脚进行调整</cmd>
+            </step>
+            <step>
+                <cmd><image href="3.jpg" id="image_dcr_d5y_mjb"/></cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

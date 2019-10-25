@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="epson_projector_unprepared.dita">
+    <title>需自行摆放</title>
+    <shortdesc>投影机安装时应注意桌面与地面，以免不小心中断电源造成非正常关机；投影画面倾斜或出现变形情况时，可调整机器支架或支撑物位置并固定使画面正常。</shortdesc>
+    <taskbody>
+        <context>
+            <p>注意事项</p>
+        </context>
+        <steps>
+            <step>
+                <cmd>注意投影机镜头的清洁</cmd>
+            </step>
+            <step>
+                <cmd>投影过程中不能用镜头盖遮挡画面</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

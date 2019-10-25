@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="adjust.dita">
+    <title>调试</title>
+    <conbody>
+        <p>投入正式使用之前，您需要对您的设备进行基本调试。</p>
+    </conbody>
+</concept>

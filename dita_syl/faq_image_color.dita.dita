@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="faq_image_color.dita">
+    <title>图像亮度或颜色异常</title>
+    <troublebody>
+        <condition>
+            <p>当图像亮度或颜色不正常时，请尝试以下解决方案:</p>
+        </condition>
+        <troubleSolution>
+            <remedy>
+                <steps>
+                    <step>
+                        <cmd>按下遥控器上的颜色模式按钮，尝试不同的颜色模式</cmd>
+                    </step>
+                    <step>
+                        <cmd>检查视频源设置</cmd>
+                    </step>
+                    <step>
+                        <cmd>调整当前输入源的图像菜单上的可用设置，如亮度、对比度、色温、色调等</cmd>
+                    </step>
+                    <step>
+                        <cmd>确保您的输入信号无异常</cmd>
+                    </step>
+                    <step>
+                        <cmd>确保所有电缆都安全连接了投影机和视频设备，如果连接了长电缆，尝试连接短电缆</cmd>
+                    </step>
+                    <step>
+                        <cmd>把投影机放在离屏幕足够近的地方</cmd>
+                    </step>
+                    <step>
+                        <cmd>如果图像渐渐变暗，您可能需要更换投影仪灯泡</cmd>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>
