@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
+<task id="epson_screen">
+    <title>Epson_Screen</title>
+    <shortdesc>降下幕布</shortdesc>
+    <taskbody>
+        <context>下面将介绍如何降下幕布。<p/></context>
+        <steps>
+            <step>
+                <cmd>找到与幕布配套的遥控器上降下幕布的按钮。</cmd>
+            </step>
+            <step>
+                <cmd>按下该按钮。</cmd>
+            </step>
+        </steps>
+    </taskbody>
+</task>

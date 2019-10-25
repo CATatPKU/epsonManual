@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="connection_video">
+        <title>Connection_Video</title>
+        <shortdesc>视频线</shortdesc>
+        <refbody>
+                <example>您需要视频线将您的计算机与本投影机连接起来，以将画面投影在幕布上。</example>
+        </refbody>
+        
+</reference>

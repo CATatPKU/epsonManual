@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="connection_ports_minidp">
+        <title>Connection_Ports_miniDP</title>
+        <shortdesc>miniDP 接口</shortdesc>
+        <refbody>
+                <example>miniDP 接口由苹果公司于2008年10月14日发表。最高传输速率已经达到了32.4 Gbps，不过并不是所有笔记本都支持这个接口。</p>
+                <p><image href="../image_wendy/Connection_Ports_miniDP.png"
+                                        id="image_minidpjiekou"/></p></example>
+        </refbody>
+        
+</reference>

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="faq_image_reverse">
+    <title>FAQ_Image_Reverse</title>
+    <troublebody>
+        <condition>
+            <title>投影画面倒立</title>
+        </condition>
+        <troubleSolution>
+            <remedy>
+                <title>请找到投影机附带的遥控器。长按遥控器上的“A/V Mute”按钮（约5秒），直到画面正常为止。如果您手边没有遥控器，请按投影机面板上的“Menu”按键进入菜单，选择“扩展”，将“投影”选项设置为“前”或“前/吊顶”。</title>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

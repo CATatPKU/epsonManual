@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="connection">
+    <title>Connection</title>
+    <shortdesc>连接</shortdesc>
+    <conbody>
+        <p>将投影机通过线材与您的计算机相连，您可以将需要展示的画面投影在幕布上，音频则会在与投影机相连的扬声器中播放。</p>
+    </conbody>
+</concept>

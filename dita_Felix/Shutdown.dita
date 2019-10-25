@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="shutdown">
+    <title>Shutdown</title>
+    <shortdesc>关机</shortdesc>
+    <conbody>
+        <p>展示结束后，您需要关闭投影机并升起幕布以节约能源。</p>
+    </conbody>
+</concept>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="epson_projector_remote">
+    <title>Epson_Projector_Remote</title>
+    <shortdesc>遥控器</shortdesc>
+    <conbody>
+        <p>本投影机附带一个遥控器，如下图所示。下面简要介绍您可能会用到的按钮。</p>
+        <p><image href="../image_Felix/Epson_Projector_Remote.png" id="image_yaokongqi"/></p>
+        <p>1 电源按钮，按下以打开或关闭投影机。</p>
+        <p>8 [Menu] 按钮，按下以显示或关闭投影机的菜单。</p>
+        <p>9 箭头按钮，分别按下以移动选中的菜单项。</p>
+        <p>10 [Enter] 按钮，确定执行已选中的菜单项。</p>
+        <p>12 [Page] 向上/向下按钮，在使用 USB 电缆或通过网络连接投影机和计算机时，分别按下可以向上/向下翻动计算机上的页面。</p>
+        <p>13 [E-Zoom] +/– 按钮，分别按下以放大或缩小图像区域。</p>
+        <p>14 [A/V Mute] 按钮，按下以暂时打开或关闭音频和视频。</p>
+        <p>16 [Home] 按钮，按下以显示或关闭投影机设置主界面。</p>
+        <p>18 [Volume] 升高/降低按钮，分别按下以升高或降低扬声器音量。</p>
+    </conbody>
+</concept>

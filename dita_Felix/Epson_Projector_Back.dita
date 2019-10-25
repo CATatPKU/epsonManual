@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="epson_projector_back">
+    <title>Epson_Projector_Back</title>
+    <shortdesc>投影机背面</shortdesc>
+    <conbody>
+        <p>投影机的背面，如下图所示。下面简要介绍您需要了解的部件。</p>
+        <p><image href="../image_Felix/Epson_Projector_Back.png" id="image_beimian"/></p>
+        <p>1 电源插座，从此将电源线连接至投影机。</p>
+        <p>3 Video 端口，输入来自视频源的复合视频信号。</p>
+        <p>4 Mic 端口，从麦克风输入音频。</p>
+        <p>5 L-Audio-R 端口，输入 Video 端口所连设备的音频。</p>
+        <p>7 Audio 1 端口，输入 Computer1 端口所连设备的音频。</p>
+        <p>8 Audio Out 端口，将来自当前输入源或 Mic 端口的音频输出至外部扬声器。</p>
+        <p>9 Audio 2 端口，输入 Computer2 端口所连设备的音频。</p>
+        <p>10 Computer2 端口，输入来自计算机的图像信号。</p>
+        <p>11 扬声器，输出音频。</p>
+        <p>12 HDMI 端口，从 HDMI 兼容视频设备或计算机中输入视频信号。</p>
+        <p>13 Computer1 端口，输入来自计算机的图像信号及来自其他视频源的分</p>
+        <p>量视频信号。</p>
+        <p>18 遥控接收器，接收遥控器信号。</p>
+    </conbody>
+</concept>
