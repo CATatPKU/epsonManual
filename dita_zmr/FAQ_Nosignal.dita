@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="faq_nosignal">
+    <title>画面显示“无信号”</title>
+    <shortdesc></shortdesc>
+    <conbody>
+        <p>投影仪与电脑连接完毕后，此时，投影画面未出现电脑屏幕，是全蓝或全黑，显示“无信号”消息。此时需要对电缆、端口等进行检查。</p>
+    </conbody>
+</concept>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="epson_outlook">
+    <title>外观介绍</title>
+    <shortdesc/>
+    <conbody>
+        <p><image href="../image_zmr/Epson_Outlook.jpg" height="300" id="image_ow1_nqr_mjb"/>投影系统：RGB光阀式液晶投影系统</p>
+        <ul id="ul_il2_pqr_mjb">
+            <li> 主要参数<ul id="ul_lgt_qqr_mjb">
+                    <li>尺寸：0.55英寸(D10)</li>
+                    <li> 实际分辨率：XGA</li>
+                    <li> 横纵比：4:3</li>
+                    <li> 像素数：786,432 dots （1024 x 768）</li>
+                    <li> 重量：约2.7kg</li>
+                </ul></li>
+        </ul>
+    </conbody>
+</concept>

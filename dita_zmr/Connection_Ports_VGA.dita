@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
+<reference id="connection_ports_vga">
+    <title>VGA接口</title>
+    <shortdesc>简要介绍VGA接口。</shortdesc>
+    <refbody>
+        <data><image href="../image_zmr/Connection_Ports_VGA.jpg" id="image_mnv_p2r_mjb"/></data>
+        <example>
+            <p>VGA（Video Graphics
+                Array）视频图形阵列是IBM于1987年提出的一个使用模拟信号的电脑显示标准。VGA接口即电脑采用VGA标准输出数据的专用接口。VGA接口共有15针，分成3排，每排5个孔，显卡上应用最为广泛的接口类型，绝大多数显卡都带有此种接口。它传输红、绿、蓝模拟信号以及同步信号(水平和垂直信号)，具有分辨率高、显示速率快、颜色丰富等优点。VGA接口不但是CRT显示设备的标准接口，同样也是LcD液晶显示设备的标准接口，具有广泛的应用范围。</p>
+        </example>
+    </refbody>
+</reference>

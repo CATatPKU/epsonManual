@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE troubleshooting PUBLIC "-//OASIS//DTD DITA 1.3 Troubleshooting//EN" "troubleshooting.dtd">
+<troubleshooting id="faq_distance_meters">
+    <title>如何确定投影机放置距离</title>
+    <troublebody>
+        <condition>
+            <p>正确调整投影仪距投影屏幕的距离</p>
+        </condition>
+        <troubleSolution>
+            <cause>
+                <title>原因：</title>
+                <p>合理调整距离</p>
+            </cause>
+            <remedy>
+                <title>方法：</title>
+                <responsibleParty></responsibleParty>
+                <steps>
+                    <step>
+                        <cmd>确定屏幕尺寸。</cmd>
+                    </step>
+                    <step>
+                        <cmd>根据屏幕尺寸选择合适的投影距离。</cmd>
+                        <stepxmp><image href="../image_zmr/FAQ_Distance_Meters1.png"
+                                id="image_bvy_nfy_mjb" height="400"/></stepxmp>
+                        <stepxmp>
+                            <image href="../image_zmr/FAQ_Distance_Meters2.png"
+                                id="image_eyg_4fy_mjb" height="400"/></stepxmp>
+                    </step>
+                </steps>
+            </remedy>
+        </troubleSolution>
+    </troublebody>
+</troubleshooting>

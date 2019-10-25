@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
+<concept id="epson_projector_condition">
+    <title>投影仪放置状态</title>
+    <shortdesc>投影机支持下列两种不同的投影方法，根据安装位置的条件安装投影仪。</shortdesc>
+    <conbody>
+        <p><option>平放式：将投影机水平放置在桌面上，从屏幕前面投影图像。</option></p>
+        <image href="../image_zmr/Epson_Projector_Condition1.jpg" id="image_isg_mzq_mjb"
+            height="300" width="400"/>
+        <p><option>悬吊式：将投影机悬挂在天花板上，从屏幕前面投影图像。</option></p>
+        <image href="../image_zmr/Epson_Projector_Condition2.jpg" id="image_dcm_yzq_mjb"
+            height="300" width="400"/>
+        <hazardstatement>
+            <messagepanel>
+                <typeofhazard>从天花板（吊架）上悬吊投影机需要特殊的安装方法。如果没有正确安装，投影仪可能坠落，从而造成事故和伤害。</typeofhazard>
+                <howtoavoid>如果您需要悬吊安装投影机，请联系爱普生专业技术支持人员。</howtoavoid>
+            </messagepanel>
+        </hazardstatement>
+    </conbody>
+</concept>
