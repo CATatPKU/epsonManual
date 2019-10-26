@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="adjust_computer">
-    <title>调试计算机</title>
-    <shortdesc>首次使用电缆连接投影机和计算机时，需要安装驱动程序。对于Windows和Mac OS，该过程会有所不同。</shortdesc>
-    <conbody>
-        <note>下次连接时不需要安装驱动程序。</note>
-    </conbody>
-</concept>

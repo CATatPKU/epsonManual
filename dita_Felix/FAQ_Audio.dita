@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
-<concept id="faq_audio">
-    <title>FAQ_Audio</title>
-    <shortdesc>声音</shortdesc>
-    <conbody>
-        <p>您可能需要将计算机上的音频通过扬声器而非计算机本身播放出来。下面将介绍如何操作，可以使音频在与投影机相连的扬声器中播放。</p>
-    </conbody>
-</concept>

@@ -1,1 +1,0 @@
-# techWritingCourse19
