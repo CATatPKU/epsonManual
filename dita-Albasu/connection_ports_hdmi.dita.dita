@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE reference PUBLIC "-//OASIS//DTD DITA Reference//EN" "reference.dtd">
 <reference id="connection_ports_hdmi.dita">
-    <title>Connection_Ports_HDMI.dita</title>
-    <shortdesc></shortdesc>
-    <refbody> </refbody>
+    <title>HDMI</title>
+    <shortdesc>连接到HDMI视频源</shortdesc>
+    <refbody>
+        <example><p> 如果视频源具有 HDMI 端口，您可以使用市售的 HDMI 电缆将其连接到 投影机，并随同投影图像发送图像源的音频。</p><p> 注意
+                在将视频源连接到投影机之前，请勿开启它。这样可能会损坏投影机。 </p><p>a 将 HDMI 电缆连接到视频源的 HDMI 输出端口。 </p><p> b
+                将另一端连接到投影机的 HDMI 端口。 </p><p/><image href="../image-Albasu/HDMI.jpg" width="400"
+                height="300" id="image_ybr_vdd_njb"/></example>
+    </refbody>
 </reference>

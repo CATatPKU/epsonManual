@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE concept PUBLIC "-//OASIS//DTD DITA Concept//EN" "concept.dtd">
 <concept id="adjust_projector.dita">
-    <title>Adjust_Projector.dita</title>
+    <title>调试投影仪</title>
     <shortdesc></shortdesc>
     <conbody>
         <p></p>
+        <p> 打开投影机后，再打开想要使用的计算机或视频设备。 </p>
     </conbody>
 </concept>

@@ -1,11 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE task PUBLIC "-//OASIS//DTD DITA Task//EN" "task.dtd">
 <task id="shutdown_projector_mannual.dita">
-    <title>Shutdown_Projector_Mannual.dita</title>
+    <title>手动关闭</title>
     <shortdesc></shortdesc>
     <taskbody>
         <context>
             <p></p>
+            <p> 按控制面板或遥控器上的电源按钮。 投影机显示关闭确认屏幕。 </p>
+            <p> 再按一下电源按钮。(要保持开启，请按任何其他按钮。) 投影图像消失，投影机会发出两次嘟嘟声，状态指示灯熄灭。 </p>
+            <p>凭借 Epson 的立即关闭技术，没有降温阶段，因此您可以马 上将投影机装箱后进行运输。 </p>
+            <p>要运输或存储投影机，请确保电源指示灯为蓝色 (但不闪烁)，然后 拔下电源线插头。</p>
+            <p> 关闭投影机的镜头盖。 </p>
         </context>
         <steps>
             <step>
