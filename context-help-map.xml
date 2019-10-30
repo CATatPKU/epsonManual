@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map>
+   <appContext helpID="introduction" path="dita_wendy/Introduction.html"/>
+   <appContext helpID="concept_ydn_tmr_mjb" path="dita_Humi/about_epson.html"/>
+   <appContext helpID="epson_features" path="dita_syl/epson_features.html"/>
+   <appContext helpID="epson_outlook" path="dita_zmr/Epson_Outlook.html"/>
+   <appContext helpID="epson_projector_front"
+               path="dita_wendy/Epson_Projector_Front.html"/>
+   <appContext helpID="epson_projector_back"
+               path="dita_Felix/Epson_Projector_Back.html"/>
+   <appContext helpID="epson_projector_bottom.dita"
+               path="dita-Albasu/epson_projector_bottom.dita.html"/>
+   <appContext helpID="epson_addtion.dita" path="dita-Albasu/epson_addtion.dita.html"/>
+   <appContext helpID="epson_projector_remote"
+               path="dita_Felix/Epson_Projector_Remote.html"/>
+   <appContext helpID="epson_projector_power"
+               path="dita_wendy/Epson_Projector_Power.html"/>
+   <appContext helpID="concept_ccz_vrr_mjb"
+               path="dita_Humi/Epson_Projector_Video.html"/>
+   <appContext helpID="reference_x45_ctr_mjb"
+               path="dita_Humi/Epson_Projector_Audio.html"/>
+   <appContext helpID="epson_warnings.dita" path="dita_syl/epson_warnings.dita.html"/>
+   <appContext helpID="preparation.dita" path="dita_syl/preparation.dita.html"/>
+   <appContext helpID="epson_projector_condition"
+               path="dita_zmr/Epson_Projector_Condition.html"/>
+   <appContext helpID="epson_projector_well_prepared"
+               path="dita_zmr/Epson_Projector_Well_Prepared.html"/>
+   <appContext helpID="epson_projector_unprepared.dita"
+               path="dita_syl/epson_projector_unprepared.dita.html"/>
+   <appContext helpID="epson_open.dita" path="dita-Albasu/epson_open.dita.html"/>
+   <appContext helpID="task_z4m_3cs_mjb" path="dita_Humi/Epson_Projector_Manual.html"/>
+   <appContext helpID="epson_projector_remote"
+               path="dita_wendy/Epson_Projector_Remote.html"/>
+   <appContext helpID="epson_screen" path="dita_Felix/Epson_Screen.html"/>
+   <appContext helpID="connection" path="dita_Felix/Connection.html"/>
+   <appContext helpID="connection_video" path="dita_Felix/Connection_Video.html"/>
+   <appContext helpID="Connection_Ports" path="dita_wendy/Connection_Ports.html"/>
+   <appContext helpID="connection_ports_vga" path="dita_zmr/Connection_Ports_VGA.html"/>
+   <appContext helpID="connection_ports_hdmi.dita"
+               path="dita-Albasu/connection_ports_hdmi.dita.html"/>
+   <appContext helpID="connection_ports_minidp"
+               path="dita_Felix/Connection_Ports_miniDP.html"/>
+   <appContext helpID="Connection_Ports_USB"
+               path="dita_wendy/Connection_Ports_USB.html"/>
+   <appContext helpID="reference_ery_p5r_mjb"
+               path="dita_Humi/Connection_Ports_TypeC.html"/>
+   <appContext helpID="concept_ft1_2xr_mjb" path="dita_Humi/Connection_Audio.html"/>
+   <appContext helpID="conncetion_ports_audio.dita"
+               path="dita_syl/conncetion_ports_audio.dita.html"/>
+   <appContext helpID="adjust.dita" path="dita_syl/adjust.dita.html"/>
+   <appContext helpID="adjust_computer" path="dita_zmr/Adjust_Computer.html"/>
+   <appContext helpID="adjust_computer_mac.dita"
+               path="dita-Albasu/adjust_computer_mac.dita.html"/>
+   <appContext helpID="Untitled" path="dita_zmr/Adjust_Computer_Windows.html"/>
+   <appContext helpID="adjust_projector.dita"
+               path="dita-Albasu/adjust_projector.dita.html"/>
+   <appContext helpID="adjust_projector_placement.dita"
+               path="dita_syl/adjust_projector_placement.dita.html"/>
+   <appContext helpID="task_osw_2gs_mjb"
+               path="dita_Humi/Adjust_Projector_Sharpness.html"/>
+   <appContext helpID="Adjust_Projector_Size"
+               path="dita_wendy/Adjust_Projector_Size.html"/>
+   <appContext helpID="shutdown" path="dita_Felix/Shutdown.html"/>
+   <appContext helpID="Shutdown_Projector" path="dita_wendy/Shutdown_Projector.html"/>
+   <appContext helpID="shutdown_projector_remote"
+               path="dita_Felix/Shutdown_Projector_Remote.html"/>
+   <appContext helpID="shutdown_projector_mannual.dita"
+               path="dita-Albasu/shutdown_projector_mannual.dita.html"/>
+   <appContext helpID="shutdown_screen" path="dita_zmr/Shutdown_Screen.html"/>
+   <appContext helpID="concept_gcj_syr_mjb" path="dita_Humi/FAQ.html"/>
+   <appContext helpID="faq_distance.dita" path="dita_syl/faq_distance.dita.html"/>
+   <appContext helpID="faq_distance_meters" path="dita_zmr/FAQ_Distance_Meters.html"/>
+   <appContext helpID="faq_nosignal" path="dita_zmr/FAQ_Nosignal.html"/>
+   <appContext helpID="faq_nosignal_solve.dita"
+               path="dita-Albasu/faq_nosignal_solve.dita.html"/>
+   <appContext helpID="faq_image.dita" path="dita-Albasu/faq_image.dita.html"/>
+   <appContext helpID="faq_image_reverse" path="dita_Felix/FAQ_Image_Reverse.html"/>
+   <appContext helpID="FAQ_Image_Partial" path="dita_wendy/FAQ_Image_Partial.html"/>
+   <appContext helpID="trouble_om3_5yr_mjb" path="dita_Humi/FAQ_Image_Unclear.html"/>
+   <appContext helpID="faq_image_color.dita" path="dita_syl/faq_image_color.dita.html"/>
+   <appContext helpID="faq_audio" path="dita_Felix/FAQ_Audio.html"/>
+   <appContext helpID="faq_audio_solve" path="dita_zmr/FAQ_Audio_Solve.html"/>
+   <appContext helpID="FAQ_Daily" path="dita_wendy/FAQ_Daily.html"/>
+   <appContext helpID="faq_daily_connection.dita"
+               path="dita-Albasu/faq_daily_connection.dita.html"/>
+   <appContext helpID="faq_daily_maintenance"
+               path="dita_Felix/FAQ_Daily_Maintenance.html"/>
+</map>
